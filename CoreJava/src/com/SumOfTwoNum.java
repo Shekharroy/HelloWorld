@@ -1,7 +1,5 @@
 package com;
 
-import java.util.Scanner;
-
 /**
  * Write a Java program to print the sum of two numbers. Go to the editor
  * Test Data:

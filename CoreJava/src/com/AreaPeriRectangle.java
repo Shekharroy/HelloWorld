@@ -5,7 +5,6 @@ package com;
  
 import java.util.Scanner;
 
-import javax.sound.midi.Soundbank;
 public class AreaPeriRectangle {
 	public static void main(String arr[]) {
 		Scanner sc = new Scanner(System.in);
